@@ -1,0 +1,34 @@
+.fav {
+    
+    font-size: 35px;
+    color: rgb(114, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border: 10px rgb(255, 179, 0) solid;
+    margin: 120px 500px 50px 500px;
+    border-radius: 30px;
+    padding: 10px 10px 15px 10px;
+    }
+    
+    img{
+       width: 50%; height: auto;
+     border: white solid 10px;
+     margin: 8px 10px 100px 350px;
+     border-radius: 8px;
+    
+    }
+    p{
+     border: 10px rgb(255, 179, 0) solid;
+     font-size: 20px;
+     color: rgb(114, 0, 0);
+     background-color: rgb(255, 255, 255);
+     text-align: center;
+     border: 8px rgb(255, 179, 0) solid;
+     margin: 10px 100px 10px 100px;
+     border-radius: 30px;
+     padding: 10px 10px 15px 10px;
+     
+    }
+    nav{
+        border-bottom: #fca311 solid 10px ;
+    }

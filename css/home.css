@@ -1,0 +1,60 @@
+nav{
+    border-bottom: #fca311 solid 10px ;
+}
+.fav{
+   color: #570004;
+   text-align: center;
+ background-color: #ffffff;
+ font-size: 50px;
+
+ margin: 50px 400px 50px 400px;
+ padding: 15px 15px 15px 15px;
+ border: #fca311 solid 10px;
+ border-radius: 500px;
+ 
+
+}
+.slide{
+
+width: 1000px;
+align-content: center;
+margin-left: 150px;
+border: #ffffff solid 10px;
+}
+
+img { width: 50%; height: auto;
+
+  
+  border: 10px solid white;
+
+}
+
+.navclr{
+   background-color: #ffffff;
+}
+.btnblu{
+   color: #ffffff;
+}
+
+
+
+
+
+footer{
+   margin-top: 100px;
+   border-top: #fca311 solid 10px;
+   background-color: white;
+   padding: 3%;
+  
+  
+   }
+   .media{
+  
+      width: 100px;
+   height: 100px; 
+   margin: 10px 600px 50px 0px;
+   border: #ffffff 10px solid;
+  }
+  
+  
+  
